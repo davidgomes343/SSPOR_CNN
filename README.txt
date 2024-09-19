@@ -1,3 +1,9 @@
+Any use of this work must cite the article:
+
+D. Gomes, A. Espírito Santo, and J. Páscoa, “Theoretical Framework and Use of Cnn Reconstruction With Optimal Sparse Sensor Placement in a Flow Field,” International Mechanical Engineering Congress & Exposition® 2024, Nov. 2024
+
+
+
 Instructions and Summary of the Model
 
 1st Step: Install necessary packages as instructed in the initial cells, then import the required libraries.
@@ -18,8 +24,8 @@ Instructions and Summary of the Model
 
 -The dataset will be transformed for CNN input. The original colored images will be converted into images with selectively colored sensors in 3 channels (RGB). An example of this transformed CNN input dataset will be shown.
 
--The CNN architecture will be constructed, and the model will be trained. A graph illustrating the Mean Squared Error (MSE) per epoch will be displayed.
+-The CNN architecture will be constructed, and the model will be trained. A graph will be displayed illustrating the Mean Squared Error (MSE) per epoch.
 
--Finally, a comparison between the CNN input, the CNN output, and the expected result will be presented.
+-Finally, a comparison will be presented between the CNN input, the CNN output, and the expected result.
 
 The model has been run with varying numbers of modes and sensors to study the influence of these parameters on the flow field reconstruction.
