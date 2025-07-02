@@ -1,3 +1,9 @@
+Any use of this work must cite the article:
+
+D. Gomes, A. Espírito Santo, and J. Páscoa, “Theoretical Framework and Use of Cnn Reconstruction With Optimal Sparse Sensor Placement in a Flow Field,” International Mechanical Engineering Congress & Exposition® 2024, Nov. 2024
+
+https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2024/88667/V008T10A007/1212014
+
 ![image](https://github.com/user-attachments/assets/08bfcc31-7bff-4002-aaed-5116f4bcde2b)
 
 
@@ -5,11 +11,6 @@
 ![image](https://github.com/user-attachments/assets/10be5fb3-e110-48d1-8b5b-ac473883ce73)
 
 
-Any use of this work must cite the article:
-
-D. Gomes, A. Espírito Santo, and J. Páscoa, “Theoretical Framework and Use of Cnn Reconstruction With Optimal Sparse Sensor Placement in a Flow Field,” International Mechanical Engineering Congress & Exposition® 2024, Nov. 2024
-
-https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2024/88667/V008T10A007/1212014
 
 Instructions and Summary of the Model
 
